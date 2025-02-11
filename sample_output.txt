@@ -1,0 +1,28 @@
+Chose an operation:
+Addition(a/A),Subtraction(s/S),Multiplication(m/M),Divison(d,D),Recall Memory(r,R),Assingment(=)
+Enter your choice:
+D
+Enter the first number 
+15
+Enter the second number 
+2
+Result: +15 + +2 = 17
+Preform another operation? (Y/N): Y
+Chose an operation:
+Addition(a/A),Subtraction(s/S),Multiplication(m/M),Divison(d,D),Recall Memory(r,R),Assingment(=)
+Enter your Choice:
+=
+Enter the first number
+D
+Enter the second number
+2
+Result: D = 2
+Chose an operation:
+Addition(a/A),Subtraction(s/S),Multiplication(m/M),Divison(d,D),Recall Memory(r,R),Assingment(=)
+Enter your choice:
+S
+Enter the first number
+D
+Enter the second number
+2
+Result: +2 - +2 = 0
