@@ -28,4 +28,5 @@ It accepts user input, performs calculations, and displays a final report summar
    ```bash
    git clone https://github.com/your-username/TinyCalculator-Assembly.git
    cd TinyCalculator-Assembly
-
+## License 
+This project was created as part of a ckass assignment and is not licenced for public or commercial use 
